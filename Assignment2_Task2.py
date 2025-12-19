@@ -5,7 +5,7 @@ Problem Statement: Write a Python program that:
 3.  Prints a personalized greeting message using the full name.
 """
 
-firstName = input("Enter your first name: ")
-lastName = input("Enter your last name: ")
+firstName = input("Enter your first name: ")  # First Name input .
+lastName = input("Enter your last name: ") #Second Name input.
 
 print(f"Hello, {firstName} {lastName}! welcome to the Python program ")
